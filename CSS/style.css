@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Lora:ital@1&display=swap');
+@import url("Components/container.css");
+@import url("Components/avatar.css");
+@import url("Components/button.css");
+@import url("Components/banner.css");
+@import url("Components/card.css");
+body {
+	font-family: "Lora", serif;
+	font-size: 18px;
+	margin: 0;
+}
+h1, h2, h3{
+	font-family: "Courier", serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none; 
+}
